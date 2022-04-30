@@ -25,4 +25,4 @@ MongoDB.
 - 🌱 I’m currently learning ...BlockChain
 
 ### Find me around the web
-- 📫 How to reach me ... shailendrassingh@gmail.com
+- 📫 How to reach me ... shailendrassingh90@gmail.com
