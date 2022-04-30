@@ -1,0 +1,9 @@
+# Hi, I'm Shailendra Singh
+
+I’m a Senior Software Engineer with 9 years of experience specializing in web app development. Experienced with all stages of the development life cycle for dynamic web projects. Having a good knowledge of AGILE methodology.
+
+- 👋 Hi, I’m @shailendras90
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...BlockChain
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
